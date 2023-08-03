@@ -2,11 +2,14 @@
    color: #FEBEB2;
    font-size: 2vw;
    font-style: italic;
+   text-align: left;
 
 
 }
 
 .choresHeading {
-   color: black;
+   color: #FEBEB2;
    text-decoration-line: underline;
+   font-size: 3vw;
+   text-align: left;
 }
