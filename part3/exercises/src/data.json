@@ -1,0 +1,33 @@
+{ "projects": [
+    {
+        "brand":"Osume",
+        "colors":"Milky Sage, Forest Green, Cozy White",
+        "keycaps":"Matcha Keycaps",
+        "photo":"https://osumekeys.com/cdn/shop/products/productshotcopy.jpg?v=1674078755&width=1426"
+    },
+    {
+        "brand":"Osume",
+        "colors":"Toasted White, Latte Cream, Coffee Brown",
+        "keycaps":"Dalgona Keycaps",
+        "photo":"https://osumekeys.com/cdn/shop/products/1.jpg?v=1653329195&width=1426" 
+    },
+    {
+        "brand":"Osume",
+        "colors":"Dusted Peach, Moonbeam Stone, Pale Beige",
+        "keycaps":"Year of the Rabbit",
+        "photo":"https://osumekeys.com/cdn/shop/products/Ok_YOTRProductImage.jpg?v=1681613868&width=1426"
+    },
+    {
+        "brand":"Osume",
+        "colors":"Ice Blue, Obsodian Blue, Snow White",
+        "keycaps":"Winterglow Keycaps",
+        "photo":"https://osumekeys.com/cdn/shop/products/WGproductshotcopy.jpg?v=1670751488&width=1426"
+    },
+    {
+        "brand":"Osume",
+        "colors":"Milky White, Creamy Pink, Berry Rose",
+        "keycaps":"Strawberry Milk Keycaps",
+        "photo":"https://osumekeys.com/cdn/shop/files/STR_PS.jpg?v=1686864543&width=1426"
+    }
+]
+}
